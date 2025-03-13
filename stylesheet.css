@@ -24,8 +24,9 @@ p {
     font-size: 36px;
     text-align: center;
     text-transform: uppercase;
-    border-bottom: 3px solid darkblue;
-    padding-bottom: 10px;
+    border-bottom: 30px solid darkblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 #birthday {
@@ -47,10 +48,11 @@ p {
 }
 
 .section{
-    margin: 20px;
-    padding: 20px;
+    margin: 40px;
+    padding: 40px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1)
+    
 }
 
 #first_sec {
@@ -75,3 +77,20 @@ a {
 a:hover {
     color: red;
 }
+
+img{
+
+     border: 3px solid black;
+     border-radius: 8px;
+     width:50%;
+    max-width: 500px;
+}
+
+
+
+.image-c{
+
+        text-align: center;
+        margin-top: 20px;
+    }
+
