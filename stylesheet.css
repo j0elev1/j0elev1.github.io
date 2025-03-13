@@ -5,6 +5,7 @@ h1 {
     text-align: center;
 }
 
+
 p {
     color: whitesmoke;
     font-size: 18px;
@@ -12,10 +13,26 @@ p {
     text-align: center
 }
 
-.highlight {
+.italic {
     font-style: italic;
     padding: 10px;
     border-radius: 5px;
+}
+
+#main-title {
+    color: darkblue;
+    font-size: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 3px solid darkblue;
+    padding-bottom: 10px;
+}
+
+#birthday {
+    font-weight: bold;
+    color: purple;
+    text-align: center;
+    font-size: 38px;
 }
 
 
