@@ -7,7 +7,7 @@ h1 {
 
 
 p {
-    color: whitesmoke;
+    color: darkblue;
     font-size: 18px;
     font-family: Helvetica;
     text-align: center
@@ -44,4 +44,24 @@ p {
     border-radius: 8px;
     text-align: center;
     font-weight: bold;
+}
+
+.section{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)
+}
+
+#first_sec {
+
+    border: 1px solid red;
+
+}
+
+#sec_sec{
+
+
+    border: 1px solid orange;
+
 }
